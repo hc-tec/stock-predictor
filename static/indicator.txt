@@ -1,0 +1,7 @@
+PE 市盈率
+PE_TTM 滚动市盈率
+PB 市净率
+PS 市销率
+PS_TTM 滚动市销率
+DV 股票资产负债表
+TOTAL_MV 总市值
